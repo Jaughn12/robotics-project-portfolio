@@ -10,7 +10,7 @@ The Quiz Buzzer System is a practical electronics project designed around a quiz
 
 - Components: Jumper Wires, Buzzers, LED.
 - Microcontroller or circuit platform: Arduino Uno.
-- Programming language or software: C++
+- Programming language or software: C++, Processing
 
 ## How It Works
 
